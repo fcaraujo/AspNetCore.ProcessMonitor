@@ -22,12 +22,12 @@ namespace ANC.ProcessMonitor.Core.Test.UnitTests
                     new GenericProcess
                     {
                         Name = _serviceName,
-                        RemoteMachineAddress  = "machinename1"
+                        // RemoteMachineAddress  = "machinename1"
                     },
                     new GenericProcess
                     {
                         Name = _serviceName,
-                        RemoteMachineAddress  = "machinename2"
+                        // RemoteMachineAddress  = "machinename2"
                     }
                 }
             };
